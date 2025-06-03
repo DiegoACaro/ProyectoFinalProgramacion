@@ -71,5 +71,5 @@ Ambos modelos lograron una alta sensibilidad en la detección de casos positivos
 
 ## 👤 Autor
 
-Maria J. Vaca
+María J. Arias-Alejandro Mejía
 Trabajo final de la asignatura **Programación 2025-1**
